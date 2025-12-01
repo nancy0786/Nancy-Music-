@@ -3,5 +3,5 @@ tgcrypto
 yt-dlp
 ffmpeg-python
 python-dotenv
-git+https://github.com/pytgcalls/ntgcalls.git@main
-git+https://github.com/pytgcalls/pytgcalls.git@main
+git+https://github.com/pytgcalls/ntgcalls.git
+git+https://github.com/pytgcalls/pytgcalls.git
